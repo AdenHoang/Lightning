@@ -2,7 +2,6 @@ int startY = 0;
 int startX = 150;
 int endY = 0;
 int endX = 150;
-
 void setup() {
   size(700,700); 
   strokeWeight(.7); 
