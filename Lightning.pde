@@ -56,8 +56,6 @@ triangle(endX-15,585,endX-10,600,endX-22,600);
 fill(250, 192, 0);
 triangle(endX,580,endX+10,600,endX-10,600);
 }
-
-System.out.println(mouseX);
  noStroke();
  fill(87,114,143,10);
  rect(0,0,700,700);
